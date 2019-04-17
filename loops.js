@@ -10,5 +10,6 @@ return array;
 }
 
 function whileLoop(n){
+  let countdown = n;
   console.log(--countdown);
 }
