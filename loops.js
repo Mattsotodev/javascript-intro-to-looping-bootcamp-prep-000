@@ -10,5 +10,5 @@ return array;
 }
 
 function whileLoop(n){
-  
+  console.log(--countdown);
 }
