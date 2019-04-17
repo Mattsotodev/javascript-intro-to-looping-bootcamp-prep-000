@@ -16,4 +16,6 @@ function whileLoop(n){
   }
   return "done";
 }
-function do
+function doWhileLoop(num){
+  
+}
